@@ -2,6 +2,6 @@
 
 ## run it inside the web app directory
 
-# features
+# Features
 * Turns image into base64
 * JS and CSS into html file
